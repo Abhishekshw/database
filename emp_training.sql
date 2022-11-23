@@ -34,4 +34,4 @@ Select * from emp1,emp_trainee;
 delete from emp1
 where Doj='2012-02-05';
 
-ss
+
